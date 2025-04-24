@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 9ec510e0b04c22842b98158e86b57333
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19722
+  packageName: Connect Four - Starter Kit
+  packageVersion: 1.1
+  assetPath: Assets/Connect Four/prefabs/field.prefab
+  uploadId: 82926

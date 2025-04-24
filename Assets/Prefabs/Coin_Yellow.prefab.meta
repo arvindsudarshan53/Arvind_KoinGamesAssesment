@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: f1274e8c2df69e74eadfe7559af71d3f
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19722
+  packageName: Connect Four - Starter Kit
+  packageVersion: 1.1
+  assetPath: Assets/Connect Four/prefabs/bluePiece.prefab
+  uploadId: 82926
